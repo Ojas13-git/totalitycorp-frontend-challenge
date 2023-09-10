@@ -1,4 +1,4 @@
-React Responsive, Fullstack, Ecommerce App . I have used React, Material UI, Stripe, Formik, Yup, Strapi, and Redux Toolkit to build this entire application. This application will allow you to filter and add products into a cart, have a form to fill out information and make payments through Stripe with a api supported by Strapi to fetch images.
+React Responsive, Fullstack, Ecommerce App . I have used React, Material UI, Stripe, Formik, Yup, Strapi, and Redux Toolkit to build this entire application. This application will allow you to filter and add products into a cart, have a form to fill out information and make payments through Stripe with a api supported by Strapi to fetch images and other item details.
 
 **NOTE: THE PROJECT COULD NOT BE DEPLOYED BECAUSE HEROKU HAS STOPPED WORKING AND NETLIFY AND VERCEL DON'T HELP WITH DEPLOYMENT OF STRAPI SO I AM ATTACHING A VIDEO LINK OF MY PROJECT AND SCREENSHOTS.
 
