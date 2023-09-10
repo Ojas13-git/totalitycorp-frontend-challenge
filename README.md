@@ -1,10 +1,10 @@
 React Responsive, Fullstack, Ecommerce App . I have used React, Material UI, Stripe, Formik, Yup, Strapi, and Redux Toolkit to build this entire application. This application will allow you to filter and add products into a cart, have a form to fill out information and make payments through Stripe with a api supported by Strapi to fetch images and other item details.
 
-**NOTE: THE PROJECT COULD NOT BE DEPLOYED BECAUSE HEROKU HAS STOPPED WORKING AND NETLIFY AND VERCEL DON'T HELP WITH DEPLOYMENT OF STRAPI SO I AM ATTACHING A VIDEO LINK OF MY PROJECT AND SCREENSHOTS.
+NOTE: THE PROJECT COULD NOT BE DEPLOYED BECAUSE HEROKU HAS STOPPED WORKING AND NETLIFY AND VERCEL DON'T HELP WITH DEPLOYMENT OF STRAPI SO I AM ATTACHING A VIDEO LINK OF MY PROJECT AND SCREENSHOTS.
 
-**Video Link: https://drive.google.com/file/d/1ZHhqQtyCRjXjf0m_doIHosfkPiHRQjX6/view?usp=sharing
+Video Link: https://drive.google.com/file/d/1ZHhqQtyCRjXjf0m_doIHosfkPiHRQjX6/view?usp=sharing
 
-**api link: https://github.com/Ojas13-git/totalitycorp-frontend-challenge-strapiapi
+Strapi api link: https://github.com/Ojas13-git/totalitycorp-frontend-challenge-strapiapi
 
 Attached are a few screenshots of the App:
 ![Homepage](https://github.com/Ojas13-git/totalitycorp-frontend-challenge/assets/79032848/30548cac-e5c1-4359-a678-518aef0cc7e7)
