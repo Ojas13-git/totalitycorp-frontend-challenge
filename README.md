@@ -3,7 +3,9 @@ React Responsive, Fullstack, Ecommerce App . I have used React, Material UI, Str
 **NOTE: THE PROJECT COULD NOT BE DEPLOYED BECAUSE HEROKU HAS STOPPED WORKING AND NETLIFY AND VERCEL DON'T HELP WITH DEPLOYMENT OF STRAPI SO I AM ATTACHING A VIDEO LINK OF MY PROJECT AND SCREENSHOTS.
 
 **Video Link: https://drive.google.com/file/d/1ZHhqQtyCRjXjf0m_doIHosfkPiHRQjX6/view?usp=sharing
-api link: https://github.com/Ojas13-git/totalitycorp-frontend-challenge-strapiapi
+
+**api link: https://github.com/Ojas13-git/totalitycorp-frontend-challenge-strapiapi
+
 Attached are a few screenshots of the App:
 ![Homepage](https://github.com/Ojas13-git/totalitycorp-frontend-challenge/assets/79032848/30548cac-e5c1-4359-a678-518aef0cc7e7)
 ![product](https://github.com/Ojas13-git/totalitycorp-frontend-challenge/assets/79032848/c6876fe6-ad57-47bb-9cde-289fb1ac1526)
